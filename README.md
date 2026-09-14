@@ -1,4 +1,4 @@
-# 📚 AVB Library — Library Management System<>
+# 📚 AVB Library — Library Management System
 
 <div align="center">
 
@@ -104,12 +104,6 @@ Create `frontend/.env`:
 VITE_BACKEND_URL=http://localhost:5000
 ```
 > Runs on **http://localhost:5173**
-
----
-
-## 🌐 Live Demo
-
-Live deployment link not found in the project files.
 
 ---
 
